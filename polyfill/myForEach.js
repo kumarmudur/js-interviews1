@@ -8,7 +8,5 @@ Array.prototype.myForEach = function(callback) {
     }
 }
 
-
-
 arr.myForEach((val) => console.log(val * 2));
 
